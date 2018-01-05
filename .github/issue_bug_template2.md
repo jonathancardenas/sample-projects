@@ -1,1 +1,1 @@
-This is a bug template
+This is a bug template2
